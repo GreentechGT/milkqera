@@ -1,0 +1,5 @@
+Psycopg2 version: 2.9.11 (dt dec pq3 ext lo64)
+❌ Failed to create table without PK: permission denied for schema public
+LINE 1: CREATE TABLE test_nopk (id integer, name varchar(50));
+                     ^
+
